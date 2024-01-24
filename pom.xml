@@ -3,13 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <!-- appsuite-tutors -->
+    <!-- appsuite-tutor -->
     <groupId>com.devamatre.appsuite</groupId>
-    <artifactId>appsuite-tutors</artifactId>
+    <artifactId>appsuite-tutor</artifactId>
     <version>${revision}</version>
     <packaging>jar</packaging>
     <name>${project.artifactId}</name>
-    <description>The ${project.artifactId} Application</description>
+    <description>The ${project.artifactId} Project</description>
 
     <!-- Properties -->
     <properties>
