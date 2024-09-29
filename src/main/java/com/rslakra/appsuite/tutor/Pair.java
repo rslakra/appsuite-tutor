@@ -1,6 +1,6 @@
-package com.devamatre.appsuite.tutor;
+package com.rslakra.appsuite.tutor;
 
-import com.devamatre.appsuite.core.BeanUtils;
+import com.rslakra.appsuite.core.BeanUtils;
 
 import java.io.Serializable;
 
